@@ -1,18 +1,15 @@
-## Getting Started
+# DropOfWater-Multi-Thread-Animation
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+### This is animation with drop of water made with swing.
+### Features:
+- add thread with water to panel
+- you can start and stop moving water
+- change window size with mouse and water will bounce in all sizes of the window
 
-## Folder Structure
+### Here is demonstration video:
 
-The workspace contains two folders by default, where:
+https://github.com/AdamDawi/DropOfWater-Multi-Thread-Animation/assets/49430055/065fb990-a45b-497e-b287-63799b952a2d
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+### Here is some pictures of application:
+![1](https://github.com/AdamDawi/DropOfWater-Multi-Thread-Animation/assets/49430055/d64a39f0-de82-4683-81ce-cb3e68075ab0)
+![3](https://github.com/AdamDawi/DropOfWater-Multi-Thread-Animation/assets/49430055/549aeef5-ab48-4c1a-b837-bba7b2f06cf4)
