@@ -1,6 +1,6 @@
 # DropOfWater-Multi-Thread-Animation
 
-This is animation with drop of water made with swing.
+This is animation with drop of water made with Swing.
 ### Features:
 - add thread with water to panel
 - you can start and stop moving water
